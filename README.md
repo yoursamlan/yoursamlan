@@ -13,7 +13,7 @@ Here are some ideas to get you started:-->
 
 ### GitHub stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yoursamlan&theme=algolia&show_icons=true&count_private=true&include_all_commits=true&)
+![Github stats](https://github-readme-stats.vercel.app/api?username=yoursamlan&theme=algolia&show_icons=true&count_private=false&include_all_commits=true&)
 
 ### Profile Views
 ![Profile views](https://gpvc.arturio.dev/yoursamlan)

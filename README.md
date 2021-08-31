@@ -14,7 +14,7 @@ Here are some ideas to get you started:-->
 ### GitHub stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yoursamlan&theme=algolia&show_icons=true&count_private=false&include_all_commits=true&)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yoursamlan&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yoursamlan&theme=dark)](https://amlan.netlify.app)
 
 ### Profile Views
 ![Profile views](https://gpvc.arturio.dev/yoursamlan)

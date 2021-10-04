@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on : [pubsidian](https://github.com/yoursamlan/pubsidian)
 - 🌱 I’m currently learning : [Chaos Theory](https://en.wikipedia.org/wiki/Chaos_theory)
-- 📚 I’m currently reading : [Palli Samaj by Sarat Chandra Chattopadhyay](https://www.barnesandnoble.com/w/palli-samaj-sarat-chandra-chatterjee/1127890944)
+- 📚 I’m currently reading : [Exploring Early India, Up to C. AD 1300 by Ranabir Chakravarti](https://www.amazon.com/Exploring-Early-India-Upto-1300-ebook/dp/B0733GTBNS)
 - 💬 Ask me about : [Indian Polity 😛](https://legislative.gov.in/sites/default/files/COI.pdf)
 - ⚡ Fun fact: **I'm spending more time on CHESS than reading and sleeping combined 🙃**
 

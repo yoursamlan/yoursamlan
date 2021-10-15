@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: **I'm spending more time on CHESS than reading and sleeping combined 🙃**
 
 ### GitHub stats
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=yoursamlan&title=Commit)](https://github.com/yoursamlan)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yoursamlan&theme=algolia&show_icons=true&count_private=false&include_all_commits=true&)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yoursamlan&theme=dark)](https://amlan.netlify.app)
 

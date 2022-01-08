@@ -16,7 +16,5 @@ Here are some ideas to get you started:-->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yoursamlan&theme=dark)](https://amlan.netlify.app)
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=yoursamlan&theme=darkhub)](https://github.com/yoursamlan)-->
 
-### Profile Views
-![Profile views](https://gpvc.arturio.dev/yoursamlan)
  
 

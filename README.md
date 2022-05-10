@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on : [Nxtbook](https://nxtbook.netlify.app), an updated new version of [pubsidian](https://github.com/yoursamlan/pubsidian)
-- 🌱 I’m currently learning : [Chaos Theory](https://en.wikipedia.org/wiki/Chaos_theory)
+- 🌱 I’m currently learning : [Markov chain Monte Carlo (MCMC)](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo)
 - 📚 I’m currently reading : [From Plassey to Partition and After: A History of Modern India](https://www.amazon.com/Plassey-Partition-After-Sekhar-Bandyopadhyay/dp/8125057234)
 - 💬 Ask me about : Chess, [Indian Constitution](https://legislative.gov.in/sites/default/files/COI.pdf) and probably *a little bit* Chaos theory.
 - ⚡ Fun fact: **I'm spending more time on CHESS than reading and sleeping combined 🙃**

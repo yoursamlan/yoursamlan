@@ -19,5 +19,5 @@ N.B: New version of [pubsidian](https://github.com/yoursamlan/pubsidian) CORE is
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yoursamlan&theme=dark)](https://amlan.netlify.app)
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=yoursamlan&theme=darkhub)](https://github.com/yoursamlan)-->
 
- 
+ <img src="https://profile-counter.glitch.me/yoursamlan/count.svg" alt="counter">
 

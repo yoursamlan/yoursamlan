@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 - 🌱 **I’m currently learning** : [Markov chain Monte Carlo (MCMC)](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo) methods of Bayesian Statistics
 - 📚 **I’m currently reading** : [An Era of Darkness: The British Empire in India by Shashi Tharoor](https://www.amazon.com/dp/B01M5EEINV/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - 💬 **Ask me about** : [Chess](https://lichess.org/@/NoTimeToDie_007), [Indian Constitution](https://legislative.gov.in/sites/default/files/COI.pdf) and [History of India](https://en.wikipedia.org/wiki/History_of_India#:~:text=The%20Mature%20Indus%20civilization%20flourished,Lothal%20in%20modern%2Dday%20India.).
-- ⚡ **Fun fact**: **I'm spending more time on coding and chess than reading and sleeping combined 🙃**
+- ⚡ **Fun fact**: **I have more than 250 private repositories 🙃**
 
 N.B: New version of [pubsidian](https://github.com/yoursamlan/pubsidian) CORE is coming soon. Please stay tuned. Thank you. 😇
 

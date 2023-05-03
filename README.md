@@ -11,7 +11,7 @@ Here are some ideas to get you started:-->
 - 💬 **Ask me about** : [Chess](https://lichess.org/@/NoTimeToDie_007), [Indian Constitution](https://legislative.gov.in/sites/default/files/COI.pdf) and [History of India](https://en.wikipedia.org/wiki/History_of_India#:~:text=The%20Mature%20Indus%20civilization%20flourished,Lothal%20in%20modern%2Dday%20India.).
 - ⚡ **Fun fact**: **I have 100+ private repositories.🙃**
 
-- 🖥️ **Currently Working on*** : [Pro Board](https://proboard.netlify.app/), a multipurpose dashboard template.
+- 🖥️ **Currently Working on** : [Pro Board](https://proboard.netlify.app/), a multipurpose, responsive dashboard.
 
 N.B: New version of [pubsidian](https://github.com/yoursamlan/pubsidian) CORE is coming soon. Please stay tuned. Thank you. 😇
 

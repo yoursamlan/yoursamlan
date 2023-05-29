@@ -17,7 +17,7 @@ N.B: New version of [pubsidian](https://github.com/yoursamlan/pubsidian) CORE is
 
 
 ### GitHub stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=yoursamlan&theme=algolia&show_icons=true&count_private=false&include_all_commits=true&)
+![Github stats](https://github-readme-stats.vercel.app/api?username=yoursamlan&theme=algolia&show_icons=true&count_private=true&include_all_commits=false)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yoursamlan&theme=dark)](https://amlan.netlify.app)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoursamlan)](https://amlan.netlify.app)
 [![trophy](https://github-profile-trophy.vercel.app/?username=yoursamlan&theme=darkhub)](https://amlan.netlify.app)-->
